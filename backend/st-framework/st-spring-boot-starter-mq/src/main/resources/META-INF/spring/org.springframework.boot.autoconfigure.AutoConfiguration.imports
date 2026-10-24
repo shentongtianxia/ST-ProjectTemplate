@@ -1,0 +1,3 @@
+cn.iocoder.st.framework.mq.redis.config.StRedisMQProducerAutoConfiguration
+cn.iocoder.st.framework.mq.redis.config.StRedisMQConsumerAutoConfiguration
+cn.iocoder.st.framework.mq.rabbitmq.config.StRabbitMQAutoConfiguration

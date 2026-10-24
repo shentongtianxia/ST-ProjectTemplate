@@ -1,0 +1,38 @@
+# Local work files and database backups
+/temp/
+/backend/sql/backup/
+/backend/sql/backups/
+*.log
+*.swp
+*.bak
+*.xml.versionsBackup
+.DS_Store
+
+# Dependencies and generated build output
+node_modules/
+target/
+dist/
+dist-*/
+.flattened-pom.xml
+*.tsbuildinfo
+.cache/
+
+# Local IDE and tool state
+.idea/
+.vscode/
+.history/
+.playwright-cli/
+*.iml
+*.iws
+*.ipr
+
+# Machine-specific configuration and credentials
+/backend/st-server/src/main/resources/application-local.yaml
+/backend/st-server/src/main/resources/application-dev.yaml
+.env.local
+.env.*.local
+*.pem
+*.p12
+*.pfx
+*.jks
+*.keystore

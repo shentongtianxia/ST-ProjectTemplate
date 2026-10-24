@@ -1,0 +1,3 @@
+cn.iocoder.st.framework.datasource.config.StDataSourceAutoConfiguration
+cn.iocoder.st.framework.mybatis.config.StMybatisAutoConfiguration
+cn.iocoder.st.framework.translate.config.StTranslateAutoConfiguration

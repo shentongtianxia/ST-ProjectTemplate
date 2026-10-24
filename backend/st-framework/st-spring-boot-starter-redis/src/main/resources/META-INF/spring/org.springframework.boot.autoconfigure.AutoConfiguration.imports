@@ -1,0 +1,2 @@
+cn.iocoder.st.framework.redis.config.StRedisAutoConfiguration
+cn.iocoder.st.framework.redis.config.StCacheAutoConfiguration
